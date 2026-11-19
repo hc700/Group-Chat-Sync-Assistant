@@ -1,0 +1,11 @@
+{
+  "groups": [
+    "TruthAI HQ",
+    "AI · LLM"
+  ],
+  "interval": 5.0,
+  "open_wait": 1.2,
+  "confirm": true,
+  "dry_run": false,
+  "send_key": "Enter"
+}
