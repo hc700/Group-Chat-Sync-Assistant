@@ -1,0 +1,15 @@
+{
+  "source": "TruthAI",
+  "targets": [
+    "111",
+    "222",
+    "333"
+  ],
+  "poll": 3.0,
+  "interval": 4.0,
+  "dry_run": false,
+  "send_key": "Enter",
+  "left": 21.5,
+  "top": 10.0,
+  "bottom": 80.0
+}
